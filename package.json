@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "axios": "^0.27.2",
+    "chart.js": "^3.9.1",
+    "chartjs-node-canvas": "^4.1.6",
+    "express": "^4.18.1",
+    "react-google-charts": "^4.0.0",
+    "vue-axios": "^3.4.1"
+  },
+  "name": "api__iot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
